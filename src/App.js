@@ -7,7 +7,7 @@ function App(){
             <h1>App className</h1>
             <header className="App-header">
                 <img
-                    src="http://pngimg.com/image/12489"
+                    src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvip2.loli.io%2F2023%2F02%2F09%2FVLDBIjE2T8FAve3.jpg&f=1&nofb=1&ipt=09d1ddda5fdde1c9c3278c1232eb7f3ea33bbbd1a8ff64378fa4eeabe986f21c"
                     alt="Ops no img loading"
                     style={{ 
 	                    width: "100%", 
